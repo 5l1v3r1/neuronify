@@ -23,4 +23,4 @@ Simply run the following command in the build-directory:
 
     /path/to/Qt/installation/clang_64/bin/macdeployqt neuronify.app -qmldir=../neuronify -dmg
   
-This should create a .dmg that can be used on machines without Qt installed.
+This should create a .dmg that can be used on Mac OS X machines without Qt installed.
